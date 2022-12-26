@@ -11,10 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Kundan K.C." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+    Bachelor In Electronics and Communication Engineering
+    <br>
+    Ksquarec8@gmail.com
         </p>
+    <button> My Projects </button>
       </main>
 
       <Footer />
